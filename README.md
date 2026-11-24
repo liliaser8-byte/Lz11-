@@ -61,7 +61,6 @@
 <img width="936" height="248" alt="image" src="https://github.com/user-attachments/assets/879ce564-14f1-40f9-bac1-b091a470c81a" />
 <img width="882" height="55" alt="image" src="https://github.com/user-attachments/assets/7696c826-097e-4b83-999f-834d625d0680" />
 
-
 ### Код
 
 ```cpp
